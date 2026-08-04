@@ -36,6 +36,6 @@
 ---
 
 ## 📫 Connect with Me
-
+* **Linkedlin:** [www.linkedin.com/in/oswaldo-velez-dev]
 * **GitHub:** [github.com/OswaldoVelezDev](https://github.com/OswaldoVelezDev)
 * **Location:** Medellín, Colombia
