@@ -5,14 +5,14 @@
 ---
 
 ## 🎓 Education
-
+* **Software Development Technologist** — IU Digital de Antioquia 
 * **Engineering in Software Development & Data Science** — IU Digital de Antioquia (In Progress)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages & Big Data:** Python, PySpark, SQL, JavaScript, HTML5
+* **Languages & Big Data:** Python, PySpark, SQL, JavaScript
 * **Cloud & Serverless:** AWS (Lambda, Sns,SeS,cloudwatch, dynamoDB, EventBridge, IAM), Databricks (Serverless Compute)
 * **Data Storage & Lakehouse:** Delta Lake, Unity Catalog, MySQL, PostgreSQL
 * **Frameworks & Tools:** Node.js, Express.js, Git, GitHub Actions (CI/CD), Azure Static Web Apps
